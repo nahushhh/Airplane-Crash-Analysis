@@ -1,0 +1,1782 @@
+year,month,airline
+1919,July,Goodyear
+1919,August,Caproni
+1921,August,SNETA
+1922,March,Beijing-Han Airlines
+1923,January,Aeromarine West Indies Airways
+1923,May,Air Union
+1923,August,Air Union
+1923,September,Daimler Airway
+1924,December,Imperial Airways
+1925,June,KLM
+1926,August,Air Union
+1926,October,Air Union
+1927,August,KLM
+1929,June,Imperial Airways
+1929,September,Imperial Airways
+1929,November,Luft Hansa
+1930,February,Air Union
+1930,October,British civil
+1931,March,Australian National Airways
+1931,March,Transcontinental & Western Air
+1933,March,Imperial Airways
+1933,October,United Air Lines
+1933,December,Boeing
+1934,February,United Air Lines
+1934,May,Boeing
+1934,July,Air France
+1934,October,Swissair
+1934,December,Curtiss
+1935,May,TWA
+1935,October,Douglas
+1935,December,United Air Lines
+1936,January,American Airlines
+1936,April,Douglas
+1936,June,TWA
+1936,August,Douglas
+1936,December,Norwegian Air Lines
+1936,December,Chicago and Southern
+1937,January,Western Air Express
+1937,February,Boeing
+1937,March,TWA
+1937,May,Douglas
+1937,November,Zeppelin Hindenburg
+1938,January,Northwest Airlines
+1938,January,Lockheed
+1938,March,Pan American World Airways
+1938,July,TWA
+1938,August,Douglas
+1938,October,Pan American World Airways
+1938,November,Douglas
+1939,January,Northwest Airlines
+1939,January,Lockheed
+1939,August,Imperial Airways
+1940,June,Aero
+1940,August,Aero
+1940,November,Douglas
+1941,February,Eastern Air Lines
+1941,October,Douglas
+1941,October,Eastern Air Lines
+1942,January,TWA
+1942,January,Douglas
+1942,March,Qantas
+1942,October,KNILM
+1942,December,Douglas
+1943,January,Pan Am
+1943,June,BOAC
+1943,July,Douglas
+1943,October,American Airlines
+1944,February,American Airlines
+1944,June,Douglas
+1945,January,Pan Am
+1945,January,American Airlines
+1945,January,Douglas
+1945,February,Australian National Airways
+1945,July,American Airlines
+1945,October,Eastern Air Lines
+1945,November,Douglas
+1946,January,Douglas
+1946,March,Australian National Airways
+1946,July,TWA
+1946,August,Lockheed
+1946,October,British European Airways
+1946,November,Douglas
+1946,December,Douglas
+1946,December,KLM
+1946,December,Douglas
+1947,January,BOAC
+1947,January,Douglas
+1947,January,BOAC
+1947,January,Douglas
+1947,February,Eastern Air Lines
+1947,April,Douglas
+1947,May,Spencer Airways
+1947,May,Douglas
+1947,May,ČSA
+1947,June,KLM
+1947,June,Douglas
+1947,August,Douglas
+1947,August,Avianca
+1947,October,Douglas
+1947,October,Delta Air Lines
+1947,December,Douglas
+1948,January,Airline Transport Carriers
+1948,January,Douglas
+1948,March,BSAA
+1948,March,Sabena
+1948,March,Delta Air Lines
+1948,April,Douglas
+1948,April,Northwest Airlines
+1948,April,Douglas
+1948,May,British European Airways
+1948,June,Pan Am
+1948,July,Lockheed
+1948,July,British European Airways
+1948,August,Sabena
+1948,August,Douglas
+1948,September,Douglas
+1948,October,United Air Lines
+1948,October,Douglas
+1948,October,Scandinavian Airlines System
+1948,December,Douglas
+1949,January,BSAA
+1949,February,British European Airways
+1949,March,Douglas
+1949,May,Lockheed
+1949,June,Strato-Freight
+1949,July,Curtiss
+1949,July,Curtiss
+1949,August,Douglas
+1949,September,Standard Air Lines
+1949,September,Curtiss
+1949,October,British European Airways
+1949,November,Douglas
+1949,November,Canadian Pacific Air Lines
+1949,November,Douglas
+1949,December,Mexicana de Aviacion
+1950,January,Lisunov Li-2
+1950,March,Airflight
+1950,March,Douglas
+1950,June,Australian National Airways
+1950,June,Douglas
+1950,July,Panair do Brasil
+1950,August,Lockheed
+1950,October,TWA
+1950,November,Lockheed
+1950,November,Lockheed
+1951,January,National Airlines
+1951,March,Douglas
+1951,March,Air Iceland
+1951,April,Douglas
+1951,June,Air Transport Charter
+1951,June,Douglas
+1951,July,Cubana de Aviación
+1951,July,Douglas
+1951,August,Pan Am
+1951,November,Lockheed
+1951,December,United Air Lines
+1951,December,Douglas
+1951,December,Douglas
+1952,January,Aer Lingus
+1952,January,Douglas
+1952,January,American Airlines
+1952,February,National Airlines
+1952,March,Douglas
+1952,March,Air France
+1952,April,KLM
+1952,April,Douglas
+1952,April,Japan Air Lines
+1952,June,Northwest Airlines
+1952,August,Pan Am
+1952,October,Douglas
+1952,December,Pan Am
+1953,January,British European Airways
+1953,January,Associated Air Transport
+1953,February,Curtiss
+1953,February,Skyways
+1953,March,Avro York
+1953,March,National Airlines
+1953,April,Douglas
+1953,May,Avro Lincoln
+1953,May,Transocean Air Lines
+1953,July,Douglas
+1953,August,Western Air Lines
+1953,September,Douglas
+1953,September,BOAC
+1953,October,Delta Air Lines
+1953,October,Douglas
+1954,January,BOAC
+1954,February,Western Air Lines
+1954,March,BOAC
+1954,April,Lockheed
+1954,April,South African Airways
+1954,June,BOAC
+1954,July,Trans-Canada Air Lines
+1954,August,Swissair
+1954,September,Cathay Pacific
+1954,September,Douglas
+1954,December,Cathay Pacific
+1954,December,Douglas
+1955,January,TWA
+1955,February,Douglas
+1955,February,Sabena
+1955,March,Douglas
+1955,March,TWA
+1955,April,American Airlines
+1955,April,Pan Am
+1955,July,Boeing
+1955,August,United Air Lines
+1955,October,Douglas
+1955,November,Air India
+1956,February,Avro York
+1956,February,TAI
+1956,April,Douglas
+1956,April,TWA
+1956,June,Boeing
+1956,June,Linea Aeropostal
+1956,June,Lockheed
+1956,July,BOAC
+1956,October,United Airlines
+1956,November,TWA
+1956,November,Lockheed
+1956,November,Trans-Canada Air Lines
+1956,November,Pan Am
+1956,December,Boeing
+1957,January,American Airlines
+1957,January,Douglas
+1957,February,Douglas
+1957,March,British European Airways
+1957,April,Varig
+1957,May,Curtiss
+1957,June,Eagle Aviation
+1957,July,LOT
+1957,August,KLM
+1957,August,Lockheed
+1957,August,Maritime Central Airways
+1957,September,Douglas
+1957,November,Varig
+1957,November,Lockheed
+1957,December,Douglas
+1958,January,Channel Airways
+1958,February,British European Airways
+1958,February,Silver City Airways
+1958,April,Capital Airlines
+1958,April,United Airlines
+1958,May,Douglas
+1958,May,Capital Airlines
+1958,June,Avro York
+1958,August,Aeronaves de México
+1958,August,Lockheed
+1958,August,Central African Airways
+1958,August,KLM
+1958,September,Lockheed
+1958,September,Aeroflot
+1958,October,Independent Air
+1958,October,Aeroflot
+1958,December,Aeroflot
+1958,December,British European Airways
+1959,January,Douglas
+1959,January,Lufthansa
+1959,January,Lockheed
+1959,February,Austral Líneas Aéreas
+1959,February,Curtiss
+1959,February,American Airlines
+1959,April,Lockheed
+1959,May,Pan Am
+1959,June,Boeing
+1959,June,Turkish Airlines
+1959,August,Air Charter Turkey
+1959,August,Capital Airlines
+1959,September,Pan Am
+1959,September,Douglas
+1959,October,TWA
+1959,October,Lockheed
+1959,November,American Airlines
+1959,November,Boeing
+1959,November,Boeing
+1959,December,Transair
+1960,January,National Airlines
+1960,January,Douglas
+1960,January,Capital Airlines
+1960,January,Scandinavian Airlines System
+1960,February,Avianca
+1960,February,Lockheed
+1960,February,Douglas
+1960,February,Douglas
+1960,March,Real Transportes Aéreos
+1960,June,Douglas
+1960,June,Aeroflot
+1960,June,Alitalia
+1960,July,Douglas
+1960,July,Lockheed
+1960,July,Trans Australia Airlines
+1960,August,Aeroflot
+1960,August,Real Transportes Aéreos
+1960,September,Douglas
+1960,September,Ethiopian Air Lines
+1960,October,Douglas
+1960,October,Chicago Helicopter Airways
+1960,November,Aeroflot
+1960,December,Air France
+1960,December,Lockheed
+1961,January,Aero
+1961,January,Douglas
+1961,January,Aeronaves de México
+1961,January,Douglas
+1961,February,Garuda Indonesian Airways
+1961,February,Douglas
+1961,March,American Airlines
+1961,March,Boeing
+1961,April,Garuda Indonesian Airways
+1961,May,Douglas
+1961,May,Sabena
+1961,June,Boeing
+1961,June,Aeroflot
+1961,July,ČSA
+1961,July,LAN-Chile
+1961,July,Douglas
+1961,July,Air France
+1961,August,Lockheed
+1961,August,Viasa
+1961,September,Douglas
+1961,September,KLM
+1961,September,Lockheed
+1961,September,Aeroflot
+1961,September,United Airlines
+1961,September,Douglas
+1961,October,ČSA
+1961,November,Aerolíneas Argentinas
+1961,November,Douglas
+1961,November,Alaska Airlines
+1961,November,Douglas
+1961,December,Malév
+1961,December,Douglas
+1961,December,Malév
+1962,February,Avensa
+1962,March,American Airlines
+1962,March,Boeing
+1962,March,Caledonian Airways
+1962,March,Douglas
+1962,May,Turkish Airlines
+1962,May,Flying Tiger Line
+1962,May,Lockheed
+1962,June,Channel Airways
+1962,June,Douglas
+1962,June,Eastern Provincial Airlines
+1962,July,Continental Airlines
+1962,July,Boeing
+1962,July,Air France
+1962,July,Boeing
+1962,September,Air France
+1962,September,Boeing
+1962,September,Aeroflot
+1962,November,Alitalia
+1962,November,Douglas
+1962,November,United Arab Airlines
+1962,November,Canadian Pacific Air Lines
+1962,December,Aeroflot
+1962,December,Aeroflot
+1963,February,Turkish Air
+1963,February,Douglas
+1963,March,Boeing
+1963,March,Philippine Airlines
+1963,April,Douglas
+1963,June,Aeroflot
+1963,July,Aeroflot
+1963,July,Northwest Airlines
+1963,July,Douglas
+1963,July,Mohawk Airlines
+1963,August,New Zealand National Airways Corporation
+1963,August,Douglas
+1963,August,Aeroflot
+1963,September,United Arab Airlines
+1963,November,Air Inter
+1963,November,Aeroflot
+1963,December,Aeroflot
+1964,May,Capital Airlines
+1964,May,Avro York
+1964,June,Aeronaves de México
+1964,August,Lockheed
+1964,August,Central African Airways
+1964,August,KLM
+1964,August,Lockheed
+1964,September,Aeroflot
+1964,September,Independent Air
+1964,October,Aeroflot
+1964,October,Aeroflot
+1964,December,British European Airways
+1964,December,Aviaco
+1964,January,BOAC
+1964,January,Douglas
+1964,January,Lufthansa
+1964,February,Lockheed
+1964,February,Austral Líneas Aéreas
+1964,February,Curtiss
+1964,April,American Airlines
+1964,May,Lockheed
+1964,June,Pan Am
+1964,June,Boeing
+1964,August,Turkish Airlines
+1964,August,Air Charter Turkey
+1964,September,Capital Airlines
+1964,September,Pan Am
+1964,October,Douglas
+1964,October,TWA
+1964,November,Lockheed
+1964,November,American Airlines
+1964,November,Boeing
+1964,December,Boeing
+1965,January,Aeroflot
+1965,February,LAN Chile
+1965,February,Douglas
+1965,March,Eastern Air Lines
+1965,March,Douglas
+1965,April,Pan Am
+1965,May,Boeing
+1965,May,Aeroflot
+1965,July,Lisunov Li-2
+1965,July,Aeroflot
+1965,July,British United Airways
+1965,July,Douglas
+1965,August,Iberia
+1965,September,Lockheed
+1965,October,PIA
+1965,November,Boeing
+1965,November,Continental Airlines
+1965,November,Boeing
+1965,December,Canadian Pacific Air Lines
+1966,January,Avianca
+1966,January,Douglas
+1966,January,Air India
+1966,February,Boeing
+1966,February,Lufthansa
+1966,February,Pakistan International Airlines
+1966,February,All Nippon Airways
+1966,March,Boeing
+1966,March,Aeroflot
+1966,March,Aeroflot
+1966,April,Canadian Pacific Air Lines
+1966,April,Douglas
+1966,April,BOAC
+1966,June,Boeing
+1966,July,United Arab Airlines
+1966,August,American Flyers Airline
+1966,September,Lockheed
+1966,September,Aeroflot
+1966,October,LANSA
+1966,November,Lockheed
+1966,November,Hawker Siddeley
+1966,November,Air New Zealand
+1966,December,Douglas
+1967,January,Aeroflot
+1967,February,Garuda Indonesian Airways
+1967,February,Lockheed
+1967,March,Philippine Airlines
+1967,March,Lake Central Airlines
+1967,March,Varig
+1967,March,Douglas
+1967,March,TWA
+1967,March,Douglas
+1967,April,South African Airways
+1967,April,Delta Air Lines
+1967,June,Douglas
+1967,June,Air Algérie
+1967,June,Globe Air
+1967,June,Air Ferry
+1967,July,Douglas
+1967,July,British Midland
+1967,September,Mohawk Airlines
+1967,October,Thai Airways
+1967,November,Philippine Airlines
+1967,November,Boeing
+1967,November,Cessna
+1967,November,ČSA
+1967,December,Cyprus Airways
+1967,December,Iberia
+1968,January,Aeroflot
+1968,February,Civil Air Transport
+1968,February,Boeing
+1968,March,Aeroflot
+1968,March,Air France
+1968,March,Boeing
+1968,April,Aer Lingus
+1968,April,Ozark Air Lines
+1968,May,Douglas
+1968,May,Cessna
+1968,May,Cessna
+1968,July,BOAC
+1968,July,Boeing
+1968,July,South African Airways
+1968,August,Boeing
+1968,August,Braniff
+1968,September,Lockheed
+1968,October,Los Angeles Airways
+1968,November,Garuda Indonesia
+1968,November,Douglas
+1968,December,BKS Air Transport
+1968,December,British European Airways
+1968,December,El Al
+1968,December,British Eagle
+1968,December,Los Angeles Airways
+1969,January,Ariana Afghan Airlines
+1969,January,Boeing
+1969,January,Scandinavian Airlines
+1969,January,Douglas
+1969,February,United Airlines
+1969,February,Boeing
+1969,March,Douglas
+1969,March,Far Eastern Air Transport
+1969,March,Prinair
+1969,April,Viasa
+1969,April,Douglas
+1969,June,United Arab Airlines
+1969,June,LOT
+1969,June,LAN Chile
+1969,August,Boeing
+1969,September,Mexicana de Aviación
+1969,September,Boeing
+1969,September,Aeroflot
+1969,November,Dominicana
+1969,November,TWA
+1969,December,Boeing
+1969,December,Douglas
+1969,December,Philippine Air Lines
+1970,January,Spantax
+1970,February,Aerolíneas Argentinas
+1970,February,Hawker Siddeley
+1970,February,TAROM
+1970,February,Aeroflot
+1970,February,Dominicana
+1970,March,Douglas
+1970,March,Swissair
+1970,April,Eastern Air Lines
+1970,April,Douglas
+1970,May,Japan Airlines
+1970,July,Boeing
+1970,July,Aeroflot
+1970,July,Philippine Airlines
+1970,August,Hawker Siddeley
+1970,August,ALM
+1970,September,Douglas
+1970,September,Overseas National Airways
+1970,September,Dan-Air
+1970,September,Air Canada
+1970,September,Douglas
+1970,October,Flying Tiger Line
+1970,October,Douglas
+1970,November,LANSA
+1970,November,Lockheed
+1971,January,Aeroflot
+1971,January,Indian Airlines
+1971,January,Aeroflot
+1971,March,Aeroflot
+1971,May,Aviogenex
+1971,June,Hughes Airwest
+1971,June,Douglas
+1971,July,Douglas
+1971,July,Toa Domestic Airlines
+1971,July,Aeroflot
+1971,July,All Nippon Airways
+1971,August,Boeing
+1971,September,Pan Am
+1971,September,Boeing
+1971,September,Malév
+1971,October,Alaska Airlines
+1971,October,Boeing
+1971,November,Paninternational
+1971,November,Malév
+1971,November,British European Airways
+1971,November,Aeroflot
+1971,December,Merpati Nusantara
+1971,December,Aeroflot
+1972,January,Iberia
+1972,January,Turkish Airlines
+1972,January,JAT
+1972,February,Douglas
+1972,March,Lufthansa
+1972,March,Boeing
+1972,March,Mohawk Airlines
+1972,May,Sterling Airways
+1972,May,Emirates
+1972,May,EgyptAir
+1972,May,Douglas
+1972,June,Alitalia
+1972,June,Douglas
+1972,June,Eastern Air Lines
+1972,June,Boeing
+1972,June,Eastern Air Lines
+1972,June,Sabena
+1972,July,Boeing
+1972,August,Aeroflot
+1972,August,American Airlines
+1972,August,Douglas
+1972,September,Japan Airlines
+1972,October,Douglas
+1972,October,Cathay Pacific
+1972,October,British European Airways
+1972,October,Hawker Siddeley
+1972,October,Prinair
+1972,October,Air Wisconsin
+1972,November,Pan Am
+1972,November,Boeing
+1972,December,Interflug
+1972,December,Burma Airways
+1972,December,Douglas
+1972,December,Aeroflot
+1972,December,Japan Airlines
+1972,December,Douglas
+1972,December,Aeroflot
+1973,January,Aeroflot
+1973,January,Boeing
+1973,January,EgyptAir
+1973,February,Aeroflot
+1973,February,Libyan Arab Airlines
+1973,February,Boeing
+1973,March,Aeroflot
+1973,March,Balkan Bulgarian
+1973,April,Iberia
+1973,May,Douglas
+1973,May,Spantax
+1973,May,Invicta International Airlines
+1973,June,Aeroflot
+1973,June,Aeroflot
+1973,July,Indian Airlines
+1973,July,Boeing
+1973,July,Royal Nepal Airlines
+1973,July,Royal Nepal Airlines
+1973,July,Aeroméxico
+1973,August,Douglas
+1973,August,Varig
+1973,August,Boeing
+1973,August,Pan Am
+1973,September,Boeing
+1973,September,Japan Air Lines
+1973,September,Boeing
+1973,September,Boeing
+1973,October,Ozark Air Lines
+1973,November,Delta Air Lines
+1973,November,Douglas
+1973,November,Aviaco
+1973,November,Aeroflot
+1973,December,Aerocondor
+1973,December,Lockheed
+1973,December,TWA
+1973,December,Boeing
+1974,January,Commonwealth Commuter
+1974,January,Turkish Airlines
+1974,January,Pan Am
+1974,March,Boeing
+1974,March,Turkish Airlines
+1974,March,Douglas
+1974,April,Sierra Pacific Airlines
+1974,April,Sterling Airways
+1974,April,Sterling Airways
+1974,April,Wenela Air Services
+1974,July,Douglas
+1974,September,Court Line
+1974,September,Pan Am
+1974,September,Boeing
+1974,October,Aeroflot
+1974,November,EgyptAir
+1974,December,TWA
+1974,December,Boeing
+1974,December,Eastern Air Lines
+1974,December,Douglas
+1975,January,Cessna
+1975,January,Þyrluflug
+1975,January,Turkish Airlines
+1975,February,Japan Air Lines
+1975,March,Boeing
+1975,June,Royal Nepal Airlines
+1975,August,Eastern Air Lines
+1975,August,Boeing
+1975,August,Boeing
+1975,September,Boeing
+1975,September,ČSA
+1975,September,Wien Air Alaska
+1975,October,Interflug
+1975,November,Garuda Indonesia
+1976,January,Boeing
+1976,January,Aeroflot
+1976,January,Taxi Aereo el Venado
+1976,February,Douglas
+1976,March,Douglas
+1976,April,Aeroflot
+1976,April,Aeroflot
+1976,May,Alaska Airlines
+1976,June,Boeing
+1976,June,American Airlines
+1976,June,Boeing
+1976,June,Aeroflot
+1976,July,Aeroflot
+1976,August,Air Manila
+1976,August,Lockheed
+1976,September,Sabah Air
+1976,September,Air France
+1976,September,ČSA
+1976,October,SAETA
+1976,October,EgyptAir
+1976,October,Aeroflot
+1976,November,Aeroflot
+1976,November,British Airways
+1976,December,Hawker Siddeley
+1976,December,Inex-Adria Aviopromet
+1976,December,Douglas
+1977,January,Aeroflot
+1977,January,Japan Air Lines
+1977,January,Douglas
+1977,February,Japan Airlines
+1977,March,Linjeflyg
+1977,April,Aeroflot
+1977,April,Boeing
+1977,May,KLM
+1977,May,Pan Am
+1977,May,Southern Airways
+1977,July,Douglas
+1977,September,Delta Air Lines
+1977,September,Lockheed
+1977,September,Aeroflot
+1977,October,Dan-Air
+1977,October,Boeing
+1977,November,Aeroflot
+1977,December,Aeroflot
+1977,December,Malév
+1977,December,Japan Airlines
+1977,December,Douglas
+1977,December,Japan Airlines
+1977,December,Douglas
+1978,January,Air India
+1978,February,Boeing
+1978,March,Pacific Western Airlines
+1978,March,Boeing
+1978,March,Continental Airlines
+1978,March,Douglas
+1978,April,Línea Aeropostal Venezolana
+1978,May,Hawker Siddeley
+1978,May,China Airlines
+1978,June,Boeing
+1978,June,Balkan Bulgarian
+1978,August,Korean Air
+1978,August,Boeing
+1978,September,National Airlines
+1978,September,Boeing
+1978,September,Aeroflot
+1978,September,Air Canada
+1978,September,Douglas
+1978,October,Helikopter Service
+1978,November,Olympic Airways
+1978,December,Boeing
+1978,December,LOT
+1978,December,Air Rhodesia
+1979,January,Varig
+1979,February,Boeing
+1979,February,Air Rhodesia
+1979,March,Air New Zealand
+1979,March,Boeing
+1979,March,Aeroflot
+1979,March,Interflug
+1979,April,Quebecair
+1979,April,TWA
+1979,May,Boeing
+1979,May,SAETA
+1979,June,American Airlines
+1979,June,Douglas
+1979,July,Downeast
+1979,July,Air New England
+1979,July,American Airlines
+1979,August,Boeing
+1979,August,Boeing
+1979,September,Garuda Indonesia
+1979,October,Lufthansa
+1979,October,Boeing
+1979,November,Dan-Air
+1979,November,Hawker Siddeley
+1979,November,Dniprodzerzhynsk mid
+1979,November,Aeroflot
+1979,December,Aeroflot
+1980,January,Iran Air
+1980,February,Boeing
+1980,February,Advance Airlines
+1980,March,China Airlines
+1980,April,Boeing
+1980,April,LOT
+1980,April,Transbrasil
+1980,June,Boeing
+1980,June,Dan-Air
+1980,July,Boeing
+1980,August,Thai Airways
+1980,September,Hawker Siddeley
+1980,November,Air Wisconsin
+1980,November,Itavia
+1980,December,Douglas
+1981,March,Pakistan International Airlines
+1981,March,Boeing
+1981,May,Garuda Indonesia
+1981,May,Douglas
+1981,June,Aer Lingus
+1981,June,Boeing
+1981,July,Austral Líneas Aéreas
+1981,July,Aeroflot
+1981,July,Dan-Air
+1981,August,Hawker Siddeley
+1981,August,Soviet Air
+1981,August,Somali Airlines
+1981,August,Aeromexico
+1981,September,Bristow Helicopters
+1981,September,Far Eastern Air Transport
+1981,September,Boeing
+1981,October,Aeroflot
+1981,November,Aeropesca Colombia
+1981,November,Aeroflot
+1981,December,Eastern Air Lines
+1982,January,Air Florida
+1982,January,Boeing
+1982,February,World Airways
+1982,February,Douglas
+1982,March,Japan Airlines
+1982,March,Douglas
+1982,March,Pilgrim Airlines
+1982,April,Widerøe
+1982,May,Aeropesca Colombia
+1982,June,CAAC
+1982,June,Hawker Siddeley
+1982,June,VASP
+1982,June,Boeing
+1982,June,VASP
+1982,July,Boeing
+1982,July,TABA
+1982,August,Air India
+1982,August,Boeing
+1982,August,British Airways
+1982,September,Boeing
+1982,September,Aeroflot
+1982,September,Aeroflot
+1982,December,Pan Am
+1982,December,Boeing
+1983,January,United Airlines
+1983,January,Douglas
+1983,March,Turkish Airlines
+1983,May,Boeing
+1983,June,Avensa
+1983,June,Douglas
+1983,July,Eastern Air Lines
+1983,July,Lockheed
+1983,July,Air Canada
+1983,July,Douglas
+1983,August,Reeve Aleutian Airways
+1983,September,Lockheed
+1983,September,Chosonminhang
+1983,September,TAME
+1983,October,Boeing
+1983,November,British Airways
+1983,November,Air Canada
+1983,November,Boeing
+1983,November,Aeroflot
+1983,December,Korean Air
+1983,December,Boeing
+1983,December,CAAC
+1983,December,Hawker Siddeley
+1983,December,Gulf Air
+1983,December,Boeing
+1984,January,Balkan Bulgarian
+1984,February,Serviços Aéreos Cruzeiro do Sul
+1984,February,Scandinavian Airlines System
+1984,March,Douglas
+1984,June,Pacific Western Airlines
+1984,July,Boeing
+1984,August,Transportes Aéreos Regionais
+1984,August,Indian Airlines
+1984,August,Vieques Air Link
+1984,August,Biman Bangladesh Airlines
+1984,September,Indian Airlines
+1984,October,Indian Airlines
+1984,October,Boeing
+1984,December,Emirates
+1984,December,Cameroon Airlines
+1985,January,Eastern Air Lines
+1985,January,Boeing
+1985,January,CAAC
+1985,February,Galaxy Airlines
+1985,February,Lockheed
+1985,February,Aeroflot
+1985,May,China Airlines
+1985,June,Boeing
+1985,June,Iberia
+1985,June,Boeing
+1985,July,Aeroflot
+1985,August,Trans World Airlines
+1985,August,Boeing
+1985,August,Braathens SAFE
+1985,August,Boeing
+1985,September,Air India
+1985,September,Boeing
+1985,September,Aeroflot
+1985,November,Delta Air Lines
+1985,December,Lockheed
+1985,December,Japan Air Lines
+1986,January,Aerovías Guatemala
+1986,January,VASP
+1986,February,China Airlines
+1986,March,Mexicana de Aviación
+1986,April,Boeing
+1986,May,Boeing
+1986,May,TWA
+1986,June,Boeing
+1986,July,Air Lanka
+1986,August,Lockheed
+1986,August,China Airlines
+1986,September,Boeing
+1986,October,Grand Canyon Airlines
+1986,October,Aeroflot
+1986,November,LIAT
+1986,November,Aeroméxico
+1986,December,Douglas
+1986,December,Pan Am
+1987,January,Varig
+1987,January,Boeing
+1987,January,Skywest Airlines
+1987,March,Aeroflot
+1987,April,Northwest Airlink
+1987,May,Garuda Indonesia
+1987,May,Douglas
+1987,May,American Eagle
+1987,June,LOT
+1987,June,Air New Zealand
+1987,July,Boeing
+1987,July,Aeroflot
+1987,August,Philippine Airlines
+1987,August,Hawker Siddeley
+1987,October,Air Afrique
+1987,November,Douglas
+1987,November,Belize Air International
+1987,November,Boeing
+1987,December,Northwest Airlines
+1987,December,Douglas
+1987,December,Thai Airways
+1987,December,Boeing
+1987,December,Aero
+1988,January,Condor Flugdienst
+1988,January,Boeing
+1988,January,China Southwest Airlines
+1988,January,Aeroflot
+1988,January,Trans-Colorado Airlines
+1988,February,Aeroflot
+1988,February,American Airlines
+1988,February,Douglas
+1988,February,Nürnberger Flugdienst
+1988,March,AVAir
+1988,March,Boeing
+1988,March,Talia Airways
+1988,April,Comair
+1988,April,TAT
+1988,May,Avianca
+1988,May,Boeing
+1988,June,Kuwait Airways
+1988,June,Boeing
+1988,July,Aloha Airlines
+1988,July,Boeing
+1988,August,Widerøe
+1988,August,TACA
+1988,September,Boeing
+1988,September,Austral Líneas Aéreas
+1988,September,Douglas
+1988,October,Air France
+1988,October,Iran Air
+1988,November,British International Helicopters
+1988,December,CAAC
+1989,January,British Midland
+1989,February,Boeing
+1989,February,Boeing
+1989,February,Independent Air
+1989,March,Boeing
+1989,March,Flying Tiger Line
+1989,March,Boeing
+1989,June,United Airlines
+1989,June,Boeing
+1989,July,Air Ontario
+1989,July,Evergreen International Airlines
+1989,July,Douglas
+1989,August,Transbrasil
+1989,August,Boeing
+1989,August,Surinam Airways
+1989,September,Douglas
+1989,September,Interflug
+1989,September,United Airlines
+1989,September,Douglas
+1989,September,Philippine Airlines
+1989,October,Korean Air
+1989,October,Douglas
+1989,October,Olympic Aviation
+1989,November,China Eastern Airlines
+1989,November,Pakistan International Airlines
+1989,November,Cubana de Aviación
+1989,December,Varig
+1989,December,Boeing
+1990,January,Aeroflot
+1990,January,SANSA
+1990,January,Avianca
+1990,February,Boeing
+1990,April,Indian Airlines
+1990,April,Atlantic Southeast Airlines
+1990,May,Cessna
+1990,May,Cessna
+1990,June,Widerøe
+1990,August,Philippine Airlines
+1990,September,Boeing
+1990,October,Aerolift Philippines
+1990,November,British Airways
+1990,November,British Airways
+1990,December,Boeing
+1991,February,USAir
+1991,February,Boeing
+1991,February,SkyWest Airlines
+1991,March,Boeing
+1991,March,Ryan International Airlines
+1991,March,Douglas
+1991,March,LAN Chile
+1991,April,United Airlines
+1991,May,Boeing
+1991,May,Aeropostal Alas de Venezuela
+1991,July,Douglas
+1991,July,Aeroflot
+1991,August,Singapore Airlines
+1991,September,Atlantic Southeast Airlines
+1991,November,Aeroflot
+1991,December,Lauda Air
+1991,December,Boeing
+1992,January,CommutAir
+1992,January,Air Inter
+1992,February,Air Transport International
+1992,March,Douglas
+1992,March,USAir
+1992,June,Trans-Air Service
+1992,June,Boeing
+1992,June,Copa Airlines
+1992,July,Boeing
+1992,July,American Eagle
+1992,July,CASA C-212 Aviocar
+1992,July,GP Express
+1992,July,Transair
+1992,August,Mandala Airlines
+1992,September,TWA
+1992,September,Lockheed
+1992,October,Thai Airways
+1992,October,China General Aviation
+1992,November,Aeroflot
+1992,November,Vietnam Airlines
+1992,December,Pakistan International Airlines
+1992,December,El Al
+1993,January,Lufthansa
+1993,February,Iran Air
+1993,February,Lufthansa
+1993,March,Palair Macedonian Airlines
+1993,March,Japan Air Lines
+1993,April,Boeing
+1993,April,China Eastern Airlines
+1993,April,Douglas
+1993,April,American Airlines
+1993,April,Douglas
+1993,May,Japan Air System
+1993,July,Douglas
+1993,July,Indian Airlines
+1993,July,Boeing
+1993,August,Indian Airlines
+1993,August,Boeing
+1993,August,SAM Colombia
+1993,August,Boeing
+1993,September,Merpati Nusantara
+1993,September,China Northwest Airlines
+1993,September,Asiana Airlines
+1993,October,Boeing
+1993,October,Boeing
+1993,November,American International Airways
+1993,November,Sakha Avia
+1993,November,Tajik Air
+1993,December,Everest Air
+1993,December,Lufthansa
+1994,January,Baikal Airlines
+1994,January,United Express
+1994,February,Pulkovo Aviation Enterprise
+1994,March,Sahara Airlines
+1994,March,Boeing
+1994,April,Aeroflot
+1994,April,Aeroflot
+1994,April,KLM
+1994,April,Federal Express
+1994,June,Douglas
+1994,June,FedEx
+1994,July,South Pacific Airmotive
+1994,July,Douglas
+1994,July,China Airlines
+1994,August,China Northwest Airlines
+1994,August,Airbus Industrie
+1994,September,Air Mauritanie
+1994,September,USAir
+1994,September,Douglas
+1994,October,Alas Chiricanas
+1994,October,Korean Air
+1994,November,Royal Air Maroc
+1994,November,USAir
+1994,December,Boeing
+1994,December,Boeing
+1994,December,Oriental Airlines
+1994,December,Cheremshanka Airlines
+1994,December,Iran Aseman Airlines
+1994,December,American Eagle
+1995,January,Intercontinental de Aviación
+1995,January,Douglas
+1995,January,Bristow Helicopters
+1995,February,TransAsia Airways
+1995,February,Antonov Design Bureau
+1995,March,Air Transport International
+1995,May,Douglas
+1995,June,TAROM
+1995,June,Knight Air
+1995,June,Ansett New Zealand
+1995,August,All Nippon Airways
+1995,August,Boeing
+1995,August,Harka Air Services
+1995,September,Airstan
+1995,September,Airstan
+1995,September,Aviateca
+1995,October,Boeing
+1995,November,Atlantic Southeast Airlines
+1995,November,Malaysia Airlines
+1995,December,Kish Air
+1995,December,Boeing
+1995,December,MIAT
+1995,December,United Airlines
+1995,December,Boeing
+1995,December,American Airlines
+1995,December,Douglas
+1995,December,Nigeria Airways
+1996,January,Moscow Airways
+1996,February,LAC Colombia
+1996,February,Douglas
+1996,February,Birgenair
+1996,May,Boeing
+1996,June,Faucett
+1996,June,Boeing
+1996,July,ValuJet
+1996,July,Douglas
+1996,August,Eastwind Airlines
+1996,August,Boeing
+1996,September,Garuda Indonesia
+1996,September,Douglas
+1996,September,Delta Air Lines
+1996,October,Douglas
+1996,October,TWA
+1996,October,Boeing
+1996,October,Spair Airlines
+1996,November,Vnukovo Airlines
+1996,November,Hemus Air
+1996,November,FedEx
+1996,November,Douglas
+1996,December,Douglas
+1996,December,Dutch Dakota Association
+1997,January,Comair
+1997,March,Stavropolskaya Aktsionernaya Avia
+1997,April,Merpati Nusantara
+1997,May,China Southern Airlines
+1997,July,Boeing
+1997,July,Sempati Air
+1997,July,Air Littoral
+1997,August,FedEx
+1997,August,Douglas
+1997,August,Korean Air
+1997,September,Boeing
+1997,September,Fine Air
+1997,September,Douglas
+1997,September,Formosa Airlines
+1997,October,Vietnam Airlines
+1997,November,Royal Brunei Airlines
+1997,December,Helikopter Service
+1997,December,Garuda Indonesia
+1997,December,Austral Líneas Aéreas
+1997,December,Douglas
+1997,December,Virgin Atlantic
+1998,February,Cebu Pacific
+1998,February,Douglas
+1998,March,China Airlines
+1998,March,Formosa Airlines
+1998,March,Ariana Afghan Airlines
+1998,April,Boeing
+1998,May,Philippine Airlines
+1998,May,Air France
+1998,May,Boeing
+1998,June,TAME
+1998,July,Occidental Petroleum
+1998,July,Boeing
+1998,August,Boeing
+1998,August,Pakistan International Airlines
+1998,August,MIAT
+1998,September,Propair
+1998,September,Proteus Airlines
+1998,September,Indian Airlines
+1998,October,Korean Air
+1998,December,Boeing
+1998,December,Myanma Airways
+1999,February,China Southwest Airlines
+1999,February,Alitalia
+1999,March,Korean Air
+1999,April,Douglas
+1999,April,Turkish Airlines
+1999,April,Boeing
+1999,June,Avianca
+1999,July,Korean Air
+1999,July,Douglas
+1999,July,American Airlines
+1999,August,Douglas
+1999,August,Hinduja Cargo Services
+1999,August,Boeing
+1999,August,All Nippon Airways
+1999,September,Boeing
+1999,September,Air Fiji
+1999,September,TACV
+1999,October,China Airlines
+1999,October,Douglas
+1999,November,Uni Air
+1999,November,Douglas
+1999,December,LAPA
+1999,December,Boeing
+1999,December,Necon Air
+1999,December,Britannia Airways
+1999,December,Boeing
+1999,December,Qantas
+2000,January,Crossair
+2000,January,Avisto
+2000,January,Kenya Airways
+2000,January,Alaska Airlines
+2000,February,Emery Worldwide Airlines
+2000,March,Southwest Airlines
+2000,April,Boeing
+2000,May,Air Philippines
+2000,May,Boeing
+2000,June,Philippine Airlines
+2000,July,Whyalla Airlines
+2000,July,Wuhan Airlines
+2000,July,Malév
+2000,July,Royal Jordanian
+2000,July,Aerocaribe
+2000,July,Hapag-Lloyd
+2000,July,Alliance Air
+2000,August,Boeing
+2000,August,Air France
+2000,September,Royal Nepal Airlines
+2000,October,Southwest Airlines
+2000,October,Boeing
+2000,November,Gulf Air
+2000,November,Beechcraft 200
+2000,December,Lao Aviation
+2000,December,Singapore Airlines
+2001,January,Yemenia
+2001,January,Boeing
+2001,January,RUTACA Airlines
+2001,February,Douglas
+2001,February,Japan Airlines
+2001,March,Japan Airlines
+2001,March,Douglas
+2001,March,Japan Airlines
+2001,May,Boeing
+2001,July,Iberia
+2001,July,Loganair
+2001,August,Thai Airways
+2001,August,Boeing
+2001,August,Air Caraïbes
+2001,September,Avjet
+2001,September,Avjet
+2001,September,Faraz Qeshm Airlines
+2001,October,Vladivostok Air
+2001,October,Rus
+2001,October,Air Transat
+2001,November,Blackhawk International Airways
+2001,November,Cessna
+2001,November,Binter Mediterráneo
+2001,December,United Airlines
+2002,January,Siberia Airlines
+2002,January,Garuda Indonesia
+2002,January,Boeing
+2002,February,TAME
+2002,April,Boeing
+2002,May,Iran Air
+2002,May,Air China
+2002,May,Boeing
+2002,May,EAS Airlines
+2002,July,EgyptAir
+2002,July,Boeing
+2002,July,China Northern Airlines
+2002,July,Douglas
+2002,July,China Airlines
+2002,July,Boeing
+2002,August,Bashkirian Airlines
+2002,August,DHL
+2002,September,Boeing
+2002,October,Boeing
+2002,November,Boeing
+2002,November,Swiss International Air Lines
+2002,November,Bristow Helicopters
+2002,December,FedEx
+2002,December,Boeing
+2003,January,Air Midwest
+2003,January,Turkish Airlines
+2003,January,TANS Perú
+2003,March,Air Algérie
+2003,March,Boeing
+2003,May,Air China
+2003,May,Ukrainian Cargo Airways
+2003,May,Boeing
+2003,May,UM Airlines
+2003,June,Qantas
+2003,July,Boeing
+2003,August,Air France
+2003,August,Sudan Airways
+2003,November,Boeing
+2003,December,Tropical Airways
+2003,December,Colgan Air
+2004,January,Flash Airlines
+2004,January,Boeing
+2004,February,Uzbekistan Airways
+2004,May,Kish Air
+2004,June,Rico Linhas Aéreas
+2004,August,Gabon Express
+2004,October,Hawker Siddeley
+2004,October,Air Tahoma
+2004,October,MK Airlines
+2004,November,Boeing
+2004,November,Pinnacle Airlines
+2005,February,Kam Air
+2005,February,Boeing
+2005,March,British Airways
+2005,March,Boeing
+2005,March,Air Transat
+2005,May,Regional Airlines
+2005,May,West Caribbean Airways
+2005,June,Airwork
+2005,July,Lockhart River
+2005,August,Aero
+2005,August,Transair
+2005,August,Lockhart River
+2005,August,US Airways
+2005,August,Boeing
+2005,August,Aer Lingus
+2005,September,Equatorial Express
+2005,September,Air France
+2005,October,Tuninter
+2005,December,Copterline
+2005,December,Helios Airways
+2005,December,Boeing
+2005,December,West Caribbean Airways
+2006,January,British Midland
+2006,February,Boeing
+2006,February,Boeing
+2006,February,Independent Air
+2006,March,Boeing
+2006,March,Flying Tiger Line
+2006,March,Boeing
+2006,June,United Airlines
+2006,June,Boeing
+2006,July,Air Ontario
+2006,July,Evergreen International Airlines
+2006,July,Douglas
+2006,August,Transbrasil
+2006,August,Boeing
+2006,August,Surinam Airways
+2006,September,Douglas
+2006,September,Interflug
+2006,September,United Airlines
+2006,September,Douglas
+2006,September,Philippine Airlines
+2006,October,Korean Air
+2006,October,Douglas
+2006,October,Olympic Aviation
+2006,November,China Eastern Airlines
+2006,November,Pakistan International Airlines
+2006,November,Cubana de Aviación
+2006,December,Varig
+2006,December,Boeing
+2006,February,Partnair
+2006,March,UTA
+2006,March,Douglas
+2006,March,USAir
+2006,June,Boeing
+2006,June,TAN-SAHSA
+2006,July,Boeing
+2006,July,China Airlines
+2006,July,Boeing
+2006,August,Aloha Island Air
+2006,August,Korean Air
+2006,August,Avianca
+2006,September,Boeing
+2006,September,Tepper Aviation
+2006,September,Lockheed
+2006,September,KLM
+2006,September,Boeing
+2006,October,United Express
+2006,October,United Airlines
+2006,October,Boeing
+2006,November,Air Ontario
+2006,November,Evergreen International Airlines
+2006,November,Douglas
+2006,December,Transbrasil
+2006,December,Boeing
+2007,January,Aeroflot
+2007,January,SANSA
+2007,January,Avianca
+2007,February,Boeing
+2007,April,Indian Airlines
+2007,April,Atlantic Southeast Airlines
+2007,May,Cessna
+2007,May,Cessna
+2007,June,Widerøe
+2007,August,Philippine Airlines
+2007,September,Boeing
+2007,October,Aerolift Philippines
+2007,November,British Airways
+2007,November,British Airways
+2007,December,Boeing
+2007,January,Faucett
+2007,February,Boeing
+2007,April,Boeing
+2007,April,Xiamen Airlines
+2007,May,China Southwest Airlines
+2007,May,Boeing
+2007,June,China Southern Airlines
+2007,August,Boeing
+2007,September,Alitalia
+2007,October,Douglas
+2007,November,Bangkok Airways
+2007,November,Northwest Airlines
+2007,December,Douglas
+2008,January,Transaven
+2008,January,British Airways
+2008,February,Boeing
+2008,February,Boeing
+2008,February,Eagle Airways
+2008,April,Belavia
+2008,April,Santa Bárbara Airlines
+2008,April,Blue Wing Airlines
+2008,May,Blue Wing Airlines
+2008,May,Kata Air Transport
+2008,May,Hewa Bora Airways
+2008,June,Douglas
+2008,July,Kalitta Air
+2008,July,Boeing
+2008,July,Moskovia Airlines
+2008,July,TACA
+2008,August,Sudan Airways
+2008,August,USA Jet Airlines
+2008,August,Douglas
+2008,August,Centurion Air Cargo
+2008,August,Boeing
+2008,September,Kalitta Air
+2008,October,Qantas
+2008,October,Boeing
+2008,November,East Coast Jets
+2008,November,Spanair
+2008,December,Douglas
+2009,January,US Airways
+2009,January,Empire Airlines
+2009,February,FedEx
+2009,February,Manaus Aerotáxi
+2009,February,Colgan Air
+2009,March,Turkish Airlines
+2009,March,Boeing
+2009,March,Cougar Helicopters
+2009,April,Emirates
+2009,April,Emirates
+2009,April,FedEx
+2009,April,Douglas
+2009,June,Bond Offshore Helicopters
+2009,June,Aviastar
+2009,July,Mimika Air
+2009,July,CanJet
+2009,July,Boeing
+2009,August,Air France
+2009,August,Yemenia
+2009,August,Southwest Airlines
+2009,September,Boeing
+2009,September,Caspian Airlines
+2009,October,Aria Air
+2009,October,Merpati Nusantara
+2009,October,Bangkok Airways
+2009,November,Airlines PNG
+2009,November,Aeroméxico
+2009,November,Boeing
+2009,December,Airlink
+2009,December,Northwest Airlines
+2010,January,Taban Air
+2010,January,Ethiopian Airlines
+2010,March,Boeing
+2010,April,Aviastar
+2010,April,United Airlines
+2010,April,Boeing
+2010,April,AeroUnion
+2010,May,Merpati Nusantara
+2010,May,Boeing
+2010,May,Cathay Pacific
+2010,June,Afriqiyah Airways
+2010,June,Pamir Airways
+2010,July,Air India
+2010,July,Boeing
+2010,August,Emirates
+2010,August,CASA C-212 Aviocar
+2010,August,Air Service Berlin
+2010,August,Douglas
+2010,August,Lufthansa
+2010,September,Douglas
+2010,September,Airblue
+2010,September,Katekavia
+2010,October,AIRES
+2010,November,Boeing
+2010,November,Agni Air
+2010,November,Henan Airlines
+2010,November,Filair
+2010,November,UPS Airlines
+2010,December,Boeing
+2010,December,Emirates
+2011,January,Kolavia
+2011,January,Iran Air
+2011,February,Boeing
+2011,February,Manx2
+2011,March,Central American Airways
+2011,March,VASO
+2011,April,Trans Air Congo
+2011,April,Southwest Airlines
+2011,April,Boeing
+2011,May,Georgian Airways
+2011,May,Pawan Hans
+2011,June,Merpati Nusantara
+2011,June,Sol Líneas Aéreas
+2011,July,Lightship Europe
+2011,July,RusAir
+2011,July,Missinippi Airways
+2011,July,Cessna
+2011,July,Silk Way Airlines
+2011,July,Hewa Bora Airways
+2011,July,Boeing
+2011,July,Angara Airlines
+2011,August,Noar Linhas Aéreas
+2011,August,Asiana Airlines
+2011,September,Boeing
+2011,September,EgyptAir
+2011,September,Boeing
+2011,September,Caribbean Airlines
+2011,October,Boeing
+2011,October,Avis-Amur
+2011,October,First Air
+2011,November,Boeing
+2012,February,Katanga Express
+2012,March,JetBlue
+2012,April,UTair
+2012,April,Bhoja Air
+2012,May,Boeing
+2012,May,Sukhoi Superjet
+2012,June,Dornier Do-228
+2012,June,Allied Air
+2012,June,Boeing
+2012,August,Dana Air
+2012,September,Douglas
+2012,September,Tianjin Airlines
+2012,October,Alfa Airlines
+2012,November,Petropavlovsk-Kamchatsky Air
+2012,December,Sita Air
+2012,December,FlyMontserrat
+2012,December,Aéro-Service
+2012,December,Amazon Sky
+2013,January,Transaereo
+2013,January,SCAT Airlines
+2013,February,South Airlines
+2013,March,Compagnie Africaine d'Aviation
+2013,March,ACE Air Cargo
+2013,April,Helicópteros del Pacifico
+2013,April,Lion Air
+2013,April,Boeing
+2013,May,National Airlines
+2013,June,Boeing
+2013,July,Nepal Airlines
+2013,July,Merpati Nusantara
+2013,July,Polar Airlines
+2013,July,Asiana Airlines
+2013,August,Boeing
+2013,August,Boeing
+2013,October,Rediske Air
+2013,October,Southwest Airlines
+2013,November,Boeing
+2013,November,UPS Airlines
+2013,November,CHC Scotia
+2014,February,Nepal Airlines
+2014,February,Ethiopian Airlines
+2014,March,Boeing
+2014,June,Malaysia Airlines
+2014,July,Boeing
+2014,July,Pakistan International Airlines
+2014,July,Malaysia Airlines
+2014,August,Boeing
+2014,December,TransAsia Airways
+2014,December,Air Algérie
+2015,February,TransAsia Airways
+2015,March,Delta Air Lines
+2015,March,Douglas
+2015,March,Germanwings
+2015,April,Air Canada
+2015,April,Carson Air
+2015,July,Asiana Airlines
+2015,August,Shenzhen Airlines
+2015,September,Trigana Air Service
+2015,September,Boeing
+2015,October,Senegalair
+2015,October,British Airways
+2015,October,Boeing
+2015,November,Aviastar
+2015,November,Dynamic Airways
+2016,January,West Air Sweden
+2016,February,Daallo Airlines
+2016,February,Tara Air
+2016,February,Air Kasthamandap
+2016,March,Air Kasthamandap
+2016,March,True Aviation
+2016,March,Flydubai
+2016,April,Boeing
+2016,April,EgyptAir
+2016,April,Batik Air
+2016,May,Boeing
+2016,May,Sunbird Aviation
+2016,May,Silk Way Airlines
+2016,August,Silk Way Airlines
+2016,August,EgyptAir
+2016,August,Korean Air
+2016,October,Boeing
+2016,October,Emirates
+2016,October,Boeing
+2016,October,ASL Airlines Hungary
+2016,November,Boeing
+2016,December,Southwest Airlines
+2016,December,Boeing
+2016,December,Skol Airlines
+2017,January,Turkish Airlines
+2017,March,Boeing
+2017,March,Ameristar Charters
+2017,May,Peruvian Airlines
+2017,July,Boeing
+2017,September,Goma Air
+2017,October,Air Canada
+2017,November,Air France
+2017,December,Valan International
+2017,December,Khabarovsk Airlines
+2018,January,Pegasus Airlines
+2018,February,Boeing
+2018,February,Saratov Airlines
+2018,February,United Airlines
+2018,March,Boeing
+2018,April,Iran Aseman Airlines
+2018,May,US-Bangla Airlines
+2018,May,Southwest Airlines
+2018,July,Boeing
+2018,July,Sichuan Airlines
+2018,July,Cubana de Aviación
+2018,August,Boeing
+2018,August,Pretoria Convair
+2018,August,Air Vanuatu
+2018,September,Aeroméxico
+2018,September,Ju-Air
+2018,September,Horizon Air
+2018,October,Horizon Air
+2018,November,Xiamen Airlines
+2018,November,Boeing
+2018,November,UTair
+2019,January,Saha Airlines
+2019,February,Boeing
+2019,February,Atlas Air
+2019,March,Boeing
+2019,March,Biman Bangladesh Airlines
+2019,March,Boeing
+2019,May,United Express
+2019,May,Laser Aéreo
+2019,May,Douglas
+2019,May,Ethiopian Airlines
+2019,June,Boeing
+2019,August,Boeing
+2019,October,Miami Air International
+2019,October,Boeing
+2019,November,Aeroflot
+2019,December,Sukhoi Superjet
+2020,February,Cebu Pacific
+2020,February,Douglas
+2020,March,China Airlines
+2020,March,Formosa Airlines
+2020,March,Ariana Afghan Airlines
+2020,April,Boeing
+2020,May,Philippine Airlines
+2020,May,Air France
+2020,May,Boeing
+2020,June,TAME
+2020,July,Occidental Petroleum
+2020,July,Boeing
+2020,August,Boeing
+2020,August,Pakistan International Airlines
+2020,August,MIAT
+2020,September,Propair
+2020,September,Proteus Airlines
+2020,September,Indian Airlines
+2020,October,Korean Air
+2020,December,Boeing
+2020,December,Myanma Airways
+2020,February,Cubana de Aviación
+2020,February,Swissair
+2020,March,Douglas
+2020,April,PauknAir
+2020,April,Lionair
+2020,April,Lignes Aériennes Congolaises
+2020,June,Boeing
+2020,July,Air Satellite
+2020,July,Thai Airways
+2020,July,China Southwest Airlines
+2020,August,Alitalia
+2020,August,Korean Air
+2020,August,Douglas
+2020,August,Turkish Airlines
+2020,September,Boeing
+2020,September,Avianca
+2020,September,Korean Air
+2020,October,Douglas
+2020,October,American Airlines
+2020,November,Douglas
+2020,November,Hinduja Cargo Services
+2020,December,Boeing
+2020,December,All Nippon Airways
+2020,December,Boeing
+2020,December,Air Fiji
+2020,December,TACV
+2020,December,China Airlines
+2021,January,Sriwijaya Air
+2021,February,Boeing
+2021,February,Longtail Aviation
+2021,March,Boeing
+2021,May,United Airlines
+2021,May,Boeing
+2021,July,South Sudan Supreme Airlines
+2021,July,Key Lime Air
+2021,July,Ryanair
+2021,September,Boeing
+2021,October,Transair
+2021,November,Boeing
+2021,December,Petropavlovsk-Kamchatsky Air
+2022,March,China Eastern Airlines
+2022,April,Boeing
+2022,May,DHL
+2022,May,Aero
+2022,June,Boeing
+2022,July,Tibet Airlines
+2022,September,Tara Air
+2022,October,RED Air
+2022,November,Douglas
+2022,November,Meridian
+2023,January,Sea World Helicopters
+2023,January,Yeti Airlines
+2023,September,Ural Airlines
+2023,September,Manaus Aerotaxi
+2023,October,Alaska Airlines
+2023,October,Horizon Air
+2024,January,Japan Airlines
+2024,January,Japan Airlines
+2024,January,Alaska Airlines
+2024,February,Boeing
+2024,March,Northwestern Air
+2024,March,Air Serbia
+2024,May,Safarilink Aviation
+2024,July,Cessna
+2024,July,Cessna
+2024,August,LATAM Airlines
+2024,August,Boeing
+2024,August,Singapore Airlines
+2024,September,Boeing
+2024,November,Gazpromavia
+2024,November,Sukhoi Superjet
+2024,December,Saurya Airlines
+2024,December,Voepass
+2024,December,Thai Flying Service
+2025,January,Air Busan
+2025,January,Light Air Services
+2025,January,American Eagle
+2025,February,Bering Air
+2025,February,Cessna

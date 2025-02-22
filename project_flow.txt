@@ -1,0 +1,44 @@
+Start by Scrping data off of a website - https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft
+
+Data of interest
+
+Year
+Month
+Airline
+From
+To
+
+Goal - 
+Build an ETL pipeline
+Convert raw unstructured data into SQL-like data
+Perform some SQL queries
+Dump data into an SQL file and create a dashboard
+
+Step 1 - Extract
+> Scrcaped off the the data from the website using Python's BeautifulSoup library
+> The page structure was not very optimal for directly scraping off data. Issue: Each year section had a ul with multiple li. Some li were
+disrupted by an image causing the data of a particular year to split into multiple lists.
+> Had to manually go throught the data and write code to merge the lists that were splitted into parts and then re-merge them into the
+original list. Process was tedious but doable because the dta size is not large
+
+
+Step 2 - Transform
+> Extract airline name and location name from the extracted aircrash incident details
+> Annotated the data to tag all the Airline occurances
+> Build a custom NER pipeline
+> Extracted the crash sites from the crash details
+> Approches - 
+    > Matched with the help of regex based on the frequently occuring phrases
+    > Extracted the NER with tags GPE, LOC and FAC
+    > Matches a sequence of Part of Speech tags based on the pattern frequently observed in the english language - 
+    VERB -> PREPOSITION -> NOUN/PROPER NOUN -> PREPOSITION -> PROPER NOUN. Example - crashed in the "Pacific Ocean"
+> Issue: The crash site required a lot of cleaning so I decided to omit it. Another apporach could have been building 
+another custom NER pipeline.
+
+Step 3 - Load
+> Loaded the data stored in dictonaries and 2d lists into a Pandas Dataframe
+> Dumped the data in an SQL and CSV file.
+
+Step 4 - Analysis
+> As the data size was not too large, limited analysis was possible. 
+> Executed some SQL queries and created a dashboard using Google Looker Studio.
