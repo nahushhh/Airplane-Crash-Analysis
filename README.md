@@ -1,3 +1,7 @@
+
+![Screenshot (65)](https://github.com/user-attachments/assets/c0a684d0-d6ed-4abd-b027-f35b2eb5fb33)
+
+
 # ETL Pipeline for Commercial Aircraft Accidents and Incidents
 
 ## Goal
@@ -58,5 +62,5 @@ The objective of this project is to build an ETL pipeline to scrape, clean, tran
 - Exploring alternative visualization tools like Tableau or Power BI for enhanced analytics.
 
 ---
-🚀 **This project demonstrates a complete ETL workflow, from raw web data to structured insights.**
+
 
